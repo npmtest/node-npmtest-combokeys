@@ -1,0 +1,62 @@
+<svg height="942" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="942" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-17 23:20:30 +0000    95802 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-17 23:20:30 +0000      551 bytes  COPYRIGHT</tspan>
+<tspan x="10" y="58">  2.  2017-04-17 23:20:30 +0000     2822 bytes  Combokeys/index.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-17 23:20:30 +0000      352 bytes  Combokeys/prototype/addEvents.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-17 23:20:30 +0000      670 bytes  Combokeys/prototype/bind.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-17 23:20:30 +0000      413 bytes  Combokeys/prototype/bindMultiple.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-17 23:20:30 +0000     2492 bytes  Combokeys/prototype/bindSequence.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-17 23:20:30 +0000     1752 bytes  Combokeys/prototype/bindSingle.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-17 23:20:30 +0000      252 bytes  Combokeys/prototype/detach.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-17 23:20:30 +0000      511 bytes  Combokeys/prototype/dom-event.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-17 23:20:30 +0000      770 bytes  Combokeys/prototype/fireCallback.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-17 23:20:30 +0000     1557 bytes  Combokeys/prototype/getKeyInfo.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-17 23:20:30 +0000     2928 bytes  Combokeys/prototype/getMatches.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-17 23:20:30 +0000      814 bytes  Combokeys/prototype/getReverseMap.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-17 23:20:30 +0000     3330 bytes  Combokeys/prototype/handleKey.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-17 23:20:30 +0000      900 bytes  Combokeys/prototype/handleKeyEvent.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-17 23:20:30 +0000      294 bytes  Combokeys/prototype/modifiersMatch.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-17 23:20:30 +0000      663 bytes  Combokeys/prototype/pickBestAction.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-17 23:20:30 +0000      370 bytes  Combokeys/prototype/reset.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-17 23:20:30 +0000      443 bytes  Combokeys/prototype/resetSequenceTimer.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-17 23:20:30 +0000      519 bytes  Combokeys/prototype/resetSequences.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-17 23:20:30 +0000      574 bytes  Combokeys/prototype/stopCallback.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-17 23:20:30 +0000      348 bytes  Combokeys/prototype/trigger.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-17 23:20:30 +0000      628 bytes  Combokeys/prototype/unbind.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-17 23:20:30 +0000      172 bytes  Combokeys/reset.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-17 23:20:30 +0000    11358 bytes  LICENSE.txt</tspan>
+<tspan x="10" y="442"> 26.  2017-04-17 23:20:30 +0000     5061 bytes  README.md</tspan>
+<tspan x="10" y="458"> 27.  2017-04-17 23:20:30 +0000     1575 bytes  helpers/characterFromEvent.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-17 23:20:30 +0000      435 bytes  helpers/eventModifiers.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-17 23:20:30 +0000      279 bytes  helpers/isModifier.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-17 23:20:30 +0000      311 bytes  helpers/keysFromString.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-17 23:20:30 +0000      251 bytes  helpers/preventDefault.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-17 23:20:30 +0000      541 bytes  helpers/shift-map.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-17 23:20:30 +0000      366 bytes  helpers/special-aliases.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-17 23:20:30 +0000      448 bytes  helpers/special-characters-map.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-17 23:20:30 +0000      926 bytes  helpers/special-keys-map.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-17 23:20:30 +0000      254 bytes  helpers/stopPropagation.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-17 23:20:30 +0000     3090 bytes  package.json</tspan>
+<tspan x="10" y="634"> 38.  2017-04-17 23:20:30 +0000      567 bytes  plugins/bind-dictionary/README.md</tspan>
+<tspan x="10" y="650"> 39.  2017-04-17 23:20:30 +0000      901 bytes  plugins/bind-dictionary/index.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-17 23:20:30 +0000      685 bytes  plugins/global-bind/README.md</tspan>
+<tspan x="10" y="682"> 41.  2017-04-17 23:20:30 +0000      898 bytes  plugins/global-bind/index.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-17 23:20:30 +0000      417 bytes  plugins/pause/README.md</tspan>
+<tspan x="10" y="714"> 43.  2017-04-17 23:20:30 +0000      631 bytes  plugins/pause/index.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-17 23:20:30 +0000      535 bytes  plugins/record/README.md</tspan>
+<tspan x="10" y="746"> 45.  2017-04-17 23:20:30 +0000     4629 bytes  plugins/record/index.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-17 23:20:30 +0000    23814 bytes  test/bind.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-17 23:20:30 +0000      709 bytes  test/detach.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-17 23:20:30 +0000      133 bytes  test/helpers/make-element.js</tspan>
+<tspan x="10" y="810"> 49.  2017-04-17 23:20:30 +0000      297 bytes  test/index.js</tspan>
+<tspan x="10" y="826"> 50.  2017-04-17 23:20:30 +0000      863 bytes  test/initialization.js</tspan>
+<tspan x="10" y="842"> 51.  2017-04-17 23:20:30 +0000     3154 bytes  test/lib/key-event.js</tspan>
+<tspan x="10" y="858"> 52.  2017-04-17 23:20:30 +0000     1394 bytes  test/plugins/bind-dictionary.js</tspan>
+<tspan x="10" y="874"> 53.  2017-04-17 23:20:30 +0000     3599 bytes  test/plugins/global-bind.js</tspan>
+<tspan x="10" y="890"> 54.  2017-04-17 23:20:30 +0000      654 bytes  test/plugins/pause.js</tspan>
+<tspan x="10" y="906"> 55.  2017-04-17 23:20:30 +0000      879 bytes  test/plugins/record.js</tspan>
+<tspan x="10" y="922"> 56.  2017-04-17 23:20:30 +0000     2023 bytes  test/unbind.js</tspan>
+</text>
+</svg>
