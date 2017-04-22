@@ -1,4 +1,7 @@
-# test coverage for  [combokeys (v2.4.6)](https://github.com/PolicyStat/combokeys)  [![npm package](https://img.shields.io/npm/v/npmtest-combokeys.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-combokeys) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-combokeys.svg)](https://travis-ci.org/npmtest/node-npmtest-combokeys)
+# npmtest-combokeys
+
+#### basic test coverage for  [combokeys (v2.4.6)](https://github.com/PolicyStat/combokeys)  [![npm package](https://img.shields.io/npm/v/npmtest-combokeys.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-combokeys) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-combokeys.svg)](https://travis-ci.org/npmtest/node-npmtest-combokeys)
+
 #### Handles keyboard shortcuts in the browser
 
 [![NPM](https://nodei.co/npm/combokeys.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/combokeys)
@@ -103,7 +106,8 @@
             "dist/**"
         ]
     },
-    "version": "2.4.6"
+    "version": "2.4.6",
+    "bin": {}
 }
 ```
 
